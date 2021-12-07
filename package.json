@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "protractor-cucumber-framework": "^8.2.8"
+  }
+}
